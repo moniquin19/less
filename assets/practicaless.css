@@ -1,0 +1,25 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+#container {
+  background-color: #30b65d;
+  width: 800px;
+  height: auto;
+  padding: 20px;
+}
+#div1 {
+  background-color: #30b65d;
+  width: 90%;
+  height: 200px;
+}
+#div2 {
+  background-color: #30b65d;
+  width: 90%;
+  height: 200px;
+}
+#div3 {
+  background-color: #30b65d;
+  width: 90%;
+  height: 200px;
+}
